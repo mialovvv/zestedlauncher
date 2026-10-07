@@ -108,12 +108,12 @@
 
 ### 1. Клонирование репозитория
 ```powershell
-git clone https://github.com/your-username/zestedlauncher.git
+git clone https://github.com/mialovvv/zestedlauncher.git
 cd zestedlauncher
 ```
 
 ### 2. Сборка через PowerShell
-В корне репозитория расположен готовый скрипт сборки [build.ps1](file:///C:/Users/mio/Documents/projects/mod/arefulauncher/build.ps1):
+В корне репозитория расположен готовый скрипт сборки [build.ps1](file:///C:/Users/User/Documents/projects/mod/arefulauncher/build.ps1):
 ```powershell
 powershell -ExecutionPolicy Bypass -File build.ps1
 ```
