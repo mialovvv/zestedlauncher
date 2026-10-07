@@ -1,0 +1,23 @@
+# Build and binary files
+*.o
+*.obj
+*.pdb
+*.ilk
+*.exp
+test_*.exe
+test_bridge.cpp
+test_ms_oauth.cpp
+
+# Executables (optional: if you prefer binary releases via GitHub Releases)
+# zestedlauncher.exe
+# arefulauncher.exe
+
+# IDE / Editor folders
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Temporary runtime data
+*.log
+*.tmp
